@@ -1,8 +1,10 @@
-# yes
+# It's a first try  SPA with VueJS
 
-> yes
+> VUE SPA
 
 ## Build Setup
+
+[![Build Status](https://travis-ci.org/alsayannyi/vue-first-spa.svg?branch=master)](https://travis-ci.org/alsayannyi/vue-first-spa)
 
 ``` bash
 # install dependencies
@@ -19,9 +21,6 @@ npm run build --report
 
 # run unit tests
 npm run unit
-
-# run e2e tests
-npm run e2e
 
 # run all tests
 npm test
